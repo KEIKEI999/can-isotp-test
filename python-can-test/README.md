@@ -1,4 +1,6 @@
-# can-isotp-test
+# python-can-test
+
+python-canの送受信テスト
 
 詳細説明は以下。
 
