@@ -4,7 +4,7 @@ python-canの送受信テスト(CAN-FD版)
 
 詳細説明は以下。
 
-[【CAN-FD】車両診断通信 その92【python-can⑤】](https://www.simulationroom999.com/blog/diagnostic-communication-92/ "{rel='follow'}")
+<p dir="auto"><a href="https://www.simulationroom999.com/blog/diagnostic-communication-93/" rel="follow">https://www.simulationroom999.com/blog/diagnostic-communication-93/</a></p>
 
-https://www.simulationroom999.com/blog/diagnostic-communication-93/
+<p dir="auto"><a href="https://www.simulationroom999.com/blog/diagnostic-communication-94/" rel="follow">https://www.simulationroom999.com/blog/diagnostic-communication-94/</a></p>
 
